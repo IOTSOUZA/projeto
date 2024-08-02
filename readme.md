@@ -7,7 +7,7 @@ Finalizei este incrível projeto com a Rockseat. Estou muito grato pelo avanço 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/design/iT1Qk7sOh70D4caiA0ksvR/DevLinks">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
