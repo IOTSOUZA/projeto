@@ -2,7 +2,7 @@
 
 <p align="center">
 Finalizei este incrível projeto com a Rockseat. Estou muito grato pelo avanço no meu conhecimento de HTML, CSS e JavaScript. <br/>
-<a href="https://www.linkedin.com/in/ioteric/">Acesse Meu Likedin!</a>
+<a href="https://www.linkedin.com/in/ioteric/" target="_blank">Acesse Meu Likedin!</a>
 </p>
 
 <p align="center">
