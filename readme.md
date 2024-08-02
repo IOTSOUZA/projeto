@@ -2,14 +2,13 @@
 
 <p align="center">
 Finalizei este incrível projeto com a Rockseat. Estou muito grato pelo avanço no meu conhecimento de HTML, CSS e JavaScript. <br/>
-<a href="https://www.linkedin.com/in/ioteric/" target="_blank">Acesse Meu Likedin!</a>
+
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/community/file/1187422022288947321/devlinks-projeto-discover">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
